@@ -11,7 +11,7 @@ Go to [Lab Environment Setup page](https://seedsecuritylabs.org/lab_env.html) to
 - You only need one VM to do this lab, but you may still want to follow Appendix A to set up multiple VMs which will likely be used in future labs. For this lab, network configuration (explained in Appendix B) is also not needed, but will likely be needed for a future lab.
 - User manual (contains the usernames and passowrds for the VM): http://www.cis.syr.edu/~wedu/seed/Documentation/Ubuntu16_04_VM/Ubuntu16_04_VM_Manual.pdf
 
-## Cross-Site Scripting Attack Lab (50 points)
+## Public-Key Infrastructure (PKI) Lab (50 points)
 
 Please thoroughly read through the [lab description](https://seedsecuritylabs.org/Labs_16.04/PDF/Crypto_PKI.pdf) and complete all the tasks listed on it. We recommend you read the entire document before you start. You will need to write a detailed report with adequate screenshots and explanations, including your code and demonstration that your attacks are successful. 
 
