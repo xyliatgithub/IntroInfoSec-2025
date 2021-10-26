@@ -13,7 +13,7 @@ Go to [Lab Environment Setup page](https://seedsecuritylabs.org/lab_env.html) to
 
 ## Cross-Site Scripting Attack Lab (50 points)
 
-Please thoroughly read through the [lab description](https://seedsecuritylabs.org/Labs_16.04/PDF/Web_XSS_Elgg_new.pdf) and complete all the tasks listed on it. We recommend you read the entire document before you start. You will need to write a detailed report with adequate screenshots and explanations, including your code and demonstration that your attacks are successful. 
+Please thoroughly read through the [lab description](https://seedsecuritylabs.org/Labs_16.04/PDF/Crypto_PKI.pdf) and complete all the tasks listed on it. We recommend you read the entire document before you start. You will need to write a detailed report with adequate screenshots and explanations, including your code and demonstration that your attacks are successful. 
 
 ## Submission Details
 
