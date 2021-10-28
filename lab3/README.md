@@ -16,7 +16,7 @@ Go to [Lab Environment Setup page](https://seedsecuritylabs.org/lab_env.html) to
 Please thoroughly go through the [lab description](https://seedsecuritylabs.org/Labs_16.04/PDF/Crypto_RSA.pdf) and complete all the tasks listed on it. We recommend you read the entire document before you start. You will need to write a detailed report with adequate screenshots and explanations, including your code and demonstration that your code can work. 
 - Task 1 - 5 are coding tasks. You need to modify the example code given (section 2.2 in lab manual) to finish these tasks.
 - For task 1 - 5, create a .c file for each of them. Then, compile the .c file you created using "gcc file_name.c -lcrypto" in the terminal. After compiling, a file is in the same directory called "a.out" if you do not specify the file name. Run the code using "./a.out". 
-- The steps for completing these task is basically the same. Initialize BIGNUM variables you need, calculate the result using BN operation functions (e.g. a*b can be done using
+- The steps for completing these task is basically the same. Initialize BIGNUM variables you need, do the calculation using BN operation functions (e.g. a*b can be done using
 	"BN_mul(res, a, b, ctx)").
 
 ## Submission Details
