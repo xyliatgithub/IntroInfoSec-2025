@@ -1,6 +1,6 @@
 # Lab Assignment 3
 
-In this lab assignment, you will need to complete the RSA Public-Key Encryption and Signature Lab module of the SEED Labs using Ubuntu 16.04 VM. The learning objective of this lab is for students to gain the first-hand experience on n the RSA algorithm. Coding experience is recommended, so you might want to work with someone with computer science backgrounds. 
+In this lab assignment, you will need to complete the RSA Public-Key Encryption and Signature Lab module of the SEED Labs using Ubuntu 16.04 VM. The learning objective of this lab is for students to gain the first-hand experience on the RSA algorithm and the X.509 digital certificate. Coding experience is recommended, so you might want to work with someone with programming backgrounds. 
 
 
 ## Environment Setup
@@ -13,9 +13,9 @@ Go to [Lab Environment Setup page](https://seedsecuritylabs.org/lab_env.html) to
 
 ## RSA Public-Key Encryption and Signature Lab (50 points)
 
-Please thoroughly read through the [lab description](https://seedsecuritylabs.org/Labs_16.04/PDF/Crypto_RSA.pdf) and complete all the tasks listed on it. We recommend you read the entire document before you start. You will need to write a detailed report with adequate screenshots and explanations, including your code and demonstration that your code can work. 
+Please thoroughly go through the [lab description](https://seedsecuritylabs.org/Labs_16.04/PDF/Crypto_RSA.pdf) and complete all the tasks listed on it. We recommend you read the entire document before you start. You will need to write a detailed report with adequate screenshots and explanations, including your code and demonstration that your code can work. 
 - Task 1 - 5 are coding tasks. You need to modify the example code given (section 2.2 in lab manual) to finish these tasks.
-- For task 1 - 5, create a .c file for each of them. Then, compile the .c file you created using "gcc file_name.c -lcrypto" in the terminal. After compiling, there will be an appearing file in the same directory called "a.out" if you did not specify the file name. Run the code using "./a.out". 
+- For task 1 - 5, create a .c file for each of them. Then, compile the .c file you created using "gcc file_name.c -lcrypto" in the terminal. After compiling, a file is in the same directory called "a.out" if you do not specify the file name. Run the code using "./a.out". 
 - The steps for completing these task is basically the same. Initialize BIGNUM variables you need, calculate the result using BN operation functions (e.g. a*b can be done using
 	"BN_mul(res, a, b, ctx)").
 
