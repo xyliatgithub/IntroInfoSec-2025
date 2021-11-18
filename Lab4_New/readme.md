@@ -1,5 +1,5 @@
 # Lab Assignment 4
-In this lab assignment, you will need to complete the RSA Public-Key Encryption and Signature Lab module of the SEED Labs using Ubuntu 16.04 VM. The learning objective of this lab is for students to gain the first-hand experience on the RSA algorithm and the X.509 digital certificate. Coding experience is recommended, so you might want to work with someone with programming backgrounds. 
+In this lab assignment, you will need to complete the Adversarial Attacks Against Machine Learning Based SpamFilters Lab module using Google Colab. The learning objective of this lab is for students to gain the first-hand experience on the machine learning based spam filters and corresponding adversarial attacks. Coding experience is recommended, so you might want to work with someone with programming backgrounds. 
 
 ## Environment Setup
 
@@ -11,9 +11,10 @@ https://colab.research.google.com/notebooks/
 Click upload and then choose the lab4.ipynb file you downloaded from the blackboard.
 After that, you will see the assignment instructions. 
 
-## Adversarial Attacks Against Machine Learning Based SpamFilters (15 points)
-The lab manual is release in Blackboard. The dataset needed for the 
-
+## Adversarial Attacks Against Machine Learning Based SpamFilters (50 points)
+The lab manual is release in Blackboard. The dataset needed for the first step, 1. loading dataset, is in this Git folder called messages.csv. Please download it.
+Please write all your answers and code in the lab manual you downloaded. You will find empty text or code block below each questions or tasks. You don't need to write a seperate report for this lab, but please explain your idea or steps when answering questions or coding for the tasks.
+Remember to save constantly when you are working on the lab.
 
 ## Submission Details
 
