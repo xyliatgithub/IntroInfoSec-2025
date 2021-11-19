@@ -19,7 +19,7 @@ Remember to save constantly when you are working on the lab.
 ## Submission Details
 
 - Due date of this assignment is announced on Blackboard.
-- Each group only needs to submit one report in PDF or ipynb format.
+- Each group only needs to submit one report in ipynb format.
 - Please list group members in your report explicitly.
 - Only typed reports are accepted.
 
