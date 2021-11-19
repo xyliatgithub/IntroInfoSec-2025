@@ -8,7 +8,7 @@ For this lab, you will need to use google colab, and you need a google account t
 ### Google Colab
 For this lab, you will need to use google colab. First, open the link below:
 https://colab.research.google.com/notebooks/
-Click upload and then choose the lab4.ipynb file you downloaded from the blackboard.
+Click upload and then choose the notbook file you downloaded from the blackboard.
 After that, you will see the assignment instructions. 
 
 ## Adversarial Attacks Against Machine Learning Based SpamFilters (50 points)
