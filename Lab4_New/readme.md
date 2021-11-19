@@ -8,12 +8,12 @@ For this lab, you will need to use google colab, and you need a google account t
 ### Google Colab
 For this lab, you will need to use google colab. First, open the link below:
 https://colab.research.google.com/notebooks/
-Click upload and then choose the notbook file you downloaded from the blackboard.
-After that, you will see the assignment instructions. 
+Click upload and then choose the notebook file you downloaded from the blackboard.
+Then you will be able to work on the lab manual. 
 
 ## Adversarial Attacks Against Machine Learning Based SpamFilters (50 points)
-The lab manual is release in Blackboard. The dataset needed for the first step, 1. loading dataset, is in this Git folder called messages.csv. Please download it.
-Please write all your answers and code in the lab manual you downloaded. You will find empty text or code block below each questions or tasks. You don't need to write a seperate report for this lab, but please explain your idea or steps when answering questions or coding for the tasks.
+The lab manual is release in Blackboard. The dataset needed for the first step of loading dataset, is in this Git folder called messages.csv. Please download it.
+Please write all your answers and code in the lab manual you downloaded. You will find a textbox or code block for each question or task. You don't need to write a seperate report for this lab, but please explain your idea or steps when answering questions or coding for the tasks.
 Remember to save constantly when you are working on the lab.
 
 ## Submission Details
