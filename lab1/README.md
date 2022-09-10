@@ -17,9 +17,9 @@ Please thoroughly read through the [lab description](https://seedsecuritylabs.or
 
 In addition, please answer the following questions:
 
-- (1) In 3.2 task 1, why can we pop up a window using the first sample code provided in 3.2 Task 1? Please explain briefly how this happens. Is such an attack still possible in today's mainstream browsers? (To answer this question, you may need to search for any useful resources by yourself, and remember to provide the relevant evidence/references below.)
+(1) In 3.2 task 1, why can we pop up a window using the first sample code provided in 3.2 Task 1? Please explain briefly how this happens. Is such an      attack still possible in today's mainstream browsers? (To answer this question, you may need to search for any useful resources by yourself, and remember to provide the relevant evidence/references below.)
 
-- (2) In 3.3 task 2, If your operation is correct, you will be able to see a "cookie" in the window that pops up. Please briefly explain why the code you add in this task allows you to see this "cookie".
+(2) In 3.3 task 2, If your operation is correct, you will be able to see a "cookie" in the window that pops up. Please briefly explain why the code you add in this task allows you to see this "cookie".
 
 
 ## Submission Details
