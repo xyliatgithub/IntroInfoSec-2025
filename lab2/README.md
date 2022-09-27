@@ -18,6 +18,8 @@ You only need to complete **Lab Task Set 1**, which includes four tasks: (1) Sni
 
 **Sample code can be found here** (from the SEED Lab's creator): https://github.com/kevin-w-du/BookCode/tree/master/Sniffing_Spoofing/Scapy
 
+**Additional Question:** In 2.3 Task 1.3: Traceroute, we increment the TTL value to get the number of routers flowing through. Please explain why we can make this. (Hint: Getting to know what TTL is and the process of routing.)
+
 ## 2. TCP/IP Attack (15 points)
 
 https://seedsecuritylabs.org/Labs_16.04/PDF/TCP_Attacks.pdf
@@ -25,6 +27,9 @@ https://seedsecuritylabs.org/Labs_16.04/PDF/TCP_Attacks.pdf
 You only need to complete the first lab task: **SYN Flooding Attack**.
 
 Note that in this lab module you will use multiple VMs under the same private network. Please refer to the [User Manual](http://www.cis.syr.edu/~wedu/seed/Labs_16.04/Documents/SEEDVM_VirtualBoxManual.pdf) if you need help on network configuration or creation of multiple VMs.
+
+**Additional Question:** Please explain how the SYN cookie mechanism can help to defend the SYN flood
+attacks.
 
 ## Submission Details
 
