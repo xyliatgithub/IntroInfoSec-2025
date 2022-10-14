@@ -21,10 +21,11 @@ Please thoroughly go through the [lab description](https://seedsecuritylabs.org/
 
 ## Submission Details
 
-- Due date of this assignment is announced on Blackboard.
+- Due date of this assignment is announced on Canvas.
 - Each group only needs to submit one report in PDF format.
 - Please list group members in your report explicitly.
 - Only typed reports are accepted.
+- Make sure to include screenshots, codes, and explainations in your report.
 
 ## Grading
 
