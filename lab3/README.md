@@ -18,6 +18,7 @@ Please thoroughly go through the [lab description](https://seedsecuritylabs.org/
 - For task 1 - 5, create a .c file for each of them. Then, compile the .c file you created using "gcc file_name.c -lcrypto" in the terminal. After compiling, a file is in the same directory called "a.out" if you do not specify the file name. Run the code using "./a.out". 
 - The steps for completing these task is basically the same. Initialize BIGNUM variables you need, do the calculation using BN operation functions (e.g. a*b can be done using
 	"BN_mul(res, a, b, ctx)").
+- Pay attention to the lab manual, some tasks require to write your observations.
 
 ## Submission Details
 
