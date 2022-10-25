@@ -16,6 +16,10 @@ The lab manual is release in Canvas. The dataset needed for the first step of lo
 Please write all your answers and code in the lab manual you downloaded. You will find a textbox or code block for each question or task. You don't need to write a seperate report for this lab, but please explain your idea or steps when answering questions or coding for the tasks.
 Remember to save constantly when you are working on the lab.
 
+For more information on this method, you can refer to the following publications:
+(1) J. He, Q. Cheng, and X. Li, “Understanding the Impact of Bad Words on Email Management through Adversarial Machine Learning,” SIG-KM International Research Symposium 2021, Virtual Event, The University of North Texas, September 29, 2021. Download
+(2) C. Wang, D. Zhang, S. Huang, X. Li, and L. Ding, “Crafting Adversarial Email Content against Machine Learning Based Spam Email Detection,” In Proceedings of the 2021 International Symposium on Advanced Security on Software and Systems (ASSS ’21) with AsiaCCS 2021, Virtual Event, Hong Kong, June 7, 2021. Download
+
 ## Submission Details
 
 - Due date of this assignment is announced on Canvas.
