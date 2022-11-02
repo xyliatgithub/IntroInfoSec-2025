@@ -8,7 +8,7 @@ For this lab, you will need to use google colab, and you need a google account t
 ### Google Colab
 For this lab, you will need to use google colab. First, open the link below:
 https://colab.research.google.com/notebooks/
-Click upload and then choose the notebook file you downloaded from the blackboard.
+Click upload and then choose the notebook file you downloaded from the Canvas.
 Then you will be able to work on the lab manual. 
 
 ## Adversarial Attacks Against Machine Learning Based Spam Filters (50 points)
