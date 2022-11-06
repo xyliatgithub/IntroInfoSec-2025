@@ -1,8 +1,8 @@
 # Lab Assignment 4 - Adversarial Attacks Against Machine Learning Based Spam Filters
-In this lab assignment, you will need to use Google Colab. The learning objective of this lab is for students to gain the first-hand experience on the machine learning based spam filters and corresponding adversarial attacks. Coding experience is recommended, so you might want to work with someone with programming backgrounds. 
+The learning objective of this lab is for students to gain the first-hand experience on the machine learning based spam filters and corresponding adversarial attacks. Coding experience is recommended, so you might want to work with someone with programming backgrounds. 
 
 ## Lab Manual
-The lab manual as a notebook file is available at Canvas. You will find textboxes or code blocks to work on for a set of questions and task. Please write all your answers and code in the lab manual for submission. You don't need to write a seperate report for this lab. Please explain your ideas and steps when answering questions or coding for the tasks. Remember to save constantly when you are working on the lab.
+The lab manual as a notebook file is available at Canvas. You will find textboxes or code blocks to work on for a set of questions and task. Please write all your answers and code in the lab manual for submission. You don't need to write a seperate report for this lab. Please explain clearly your ideas and steps as instructed. Remember to save regularly when you are working on the notebook.
 
 The dataset needed for this lab is in this Git folder called messages.csv. 
 
