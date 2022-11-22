@@ -20,9 +20,13 @@ Directly install ARX tool inside the SEED VM:
 ## Submission Details
 
 Due date of this assignment is announced on Canvas.
+
 Each group only needs to submit one report in PDF format.
+
 Please list group members in your report explicitly.
+
 Only typed reports are accepted.
+
 Make sure to include screenshots, codes, explainations, and observations in your report.
 
 ## Grading
