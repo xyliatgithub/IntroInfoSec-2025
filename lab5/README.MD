@@ -9,6 +9,12 @@ The dataset needed for this lab is on Canvas: adults.csv, patients_kanon.csv, Hi
 
 ## Environment Setup
 
+Go to [Lab Environment Setup page](https://seedsecuritylabs.org/lab_env.html) to install the pre-built VM image (Ubuntu 16.04 32 bits). You cannot work on it on your personal machine.  
+- Install VirtualBox first, if you do not have it already
+- VM setup instruction (read carefully): https://seedsecuritylabs.org/Labs_16.04/Documents/SEEDVM_VirtualBoxManual.pdf
+- You only need one VM to do this lab, but you may still want to follow Appendix A to set up multiple VMs which will likely be used in future labs. For this lab, network configuration (explained in Appendix B) is also not needed, but will likely be needed for a future lab.
+- User manual (contains the usernames and passowrds for the VM): https://seedsecuritylabs.org/Labs_16.04/Documents/SEEDVM_VirtualBoxManual.pdf
+
 Directly install ARX tool inside the SEED VM: 
 1. Open the VM 
 2. Go to the ARX download website: https://arx.deidentifier.org/ 
@@ -19,15 +25,12 @@ Directly install ARX tool inside the SEED VM:
 
 ## Submission Details
 
-Due date of this assignment is announced on Canvas.
 
-Each group only needs to submit one report in PDF format.
-
-Please list group members in your report explicitly.
-
-Only typed reports are accepted.
-
-Make sure to include screenshots, codes, explainations, and observations in your report.
+- Due date of this assignment is announced on Canvas.
+- Each group only needs to submit one report in PDF format.
+- Please list group members in your report explicitly.
+- Only typed reports are accepted.
+- Make sure to include screenshots, codes, explainations, and observations in your report.
 
 ## Grading
 
