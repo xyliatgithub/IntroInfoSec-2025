@@ -8,7 +8,7 @@ The lab manual is available on Canvas. You will find questions and task in the l
 
 The dataset needed for this lab is on Canvas: adults.csv, patients_kanon.csv, Hierarchies folder. 
 
-Please douwnload the zip file for all the datasets that you need for this lab.
+Please douwnload the zip file for all the datasets that you need for this lab on Canvas.
 
 ## Environment Setup
 
