@@ -34,5 +34,5 @@ Directly install ARX tool inside the SEED VM:
 
 ## Grading
 
--Completeness (30 pts): All the steps as instructed in the lab manual must be included in the report with adequate evidence.
--Presentation (20 pts): The report must be clear and correct in organization and writing with adequate explanation.
+- Completeness (30 pts): All the steps as instructed in the lab manual must be included in the report with adequate evidence.
+- Presentation (20 pts): The report must be clear and correct in organization and writing with adequate explanation.
