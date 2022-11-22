@@ -21,8 +21,8 @@ Directly install ARX tool inside the SEED VM:
 2. Go to the ARX download website: https://arx.deidentifier.org/ 
 3. Download the Linus version of the ARX 
 4. After download the ARX, in the file folder, open terminal 
-5. Use the command chmod +x yourfilename.run to make your RUN file executable. 
-6. Use the command ./yourfilename.run to execute your RUN file for downloading the ARX tools on your SEED VM.
+5. Use the command chmod +x yourfilename.run to make your RUN file executable
+6. Use the command ./yourfilename.run to execute your RUN file for downloading the ARX tools on your SEED VM
 
 ## Submission Details
 
