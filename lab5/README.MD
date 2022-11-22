@@ -6,7 +6,9 @@ In this lab assignment, you will need to complete the Data Privacy Lab in the SE
 
 The lab manual is available on Canvas. You will find questions and task in the lab manual. 
 
-The dataset needed for this lab is on Canvas: adults.csv, patients_kanon.csv, Hierarchies folder. Please douwnload the zip file for all the datasets that you need for this lab.
+The dataset needed for this lab is on Canvas: adults.csv, patients_kanon.csv, Hierarchies folder. 
+
+Please douwnload the zip file for all the datasets that you need for this lab.
 
 ## Environment Setup
 
