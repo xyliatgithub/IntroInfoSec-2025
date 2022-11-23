@@ -8,10 +8,10 @@ The lab manual and several datasets are available on Canvas. You will find a set
 ## Environment Setup
 
 Go to [Lab Environment Setup page](https://seedsecuritylabs.org/lab_env.html) to install the pre-built VM image. You should not work on this lab on your personal machine to avoid potential software compatibility and other issues.  
-- Install VirtualBox first, if you do not have it already
-- VM setup instruction (read carefully): https://seedsecuritylabs.org/Labs_16.04/Documents/SEEDVM_VirtualBoxManual.pdf
-- You only need one VM to do this lab. For this lab, network configuration (explained in Appendix B) is also not needed.
-- User manual (contains the usernames and passowrds for the VM): https://seedsecuritylabs.org/Labs_16.04/Documents/SEEDVM_VirtualBoxManual.pdf
+- Install VirtualBox first, if you do not have it already.
+- VM setup instruction (read carefully): https://seedsecuritylabs.org/Labs_16.04/Documents/SEEDVM_VirtualBoxManual.pdf .
+- You only need one VM to do this lab. For this lab, network configuration (explained in Appendix B) is not needed.
+- User manual (contains the usernames and passowrds for the VM): https://seedsecuritylabs.org/Labs_16.04/Documents/SEEDVM_VirtualBoxManual.pdf .
 
 Install ARX on the SEED VM: 
 1. Open the VM.
