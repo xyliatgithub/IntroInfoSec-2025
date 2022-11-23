@@ -3,7 +3,11 @@ This lab assignment studies data privacy issues using a tool called ARX on a SEE
 
 ## Lab Manual and Datasets
 
-The lab manual and several datasets are available on Canvas. You will find a set of questions and tasks in the lab manual. 
+The lab manual and several datasets are available on Canvas. You will find a set of questions and tasks in the lab manual.
+
+### Acknowledgement
+
+This lab is adopted with some minor revisions from the material by Dr. Mengjun Xie at the University of Tennessee at Chattanooga and Dr. Na Li at Prairie View A&M University. 
 
 ## Environment Setup
 
