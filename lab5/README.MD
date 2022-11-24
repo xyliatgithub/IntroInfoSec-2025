@@ -19,7 +19,7 @@ Go to [Lab Environment Setup page](https://github.com/seed-labs/seed-labs/blob/m
 
 Install ARX on the SEED VM: 
 1. Open the VM.
-2. Go to the ARX download website: https://arx.deidentifier.org/ .
+2. Go to the ARX download website: https://arx.deidentifier.org/downloads/.
 3. Download the Linus version of the ARX.
 4. After download the ARX, in the file folder, open terminal.
 5. Use the command chmod +x yourfilename.run to make your RUN file executable.
