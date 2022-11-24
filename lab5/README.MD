@@ -31,7 +31,7 @@ Install ARX on the SEED VM:
 - Each group only needs to submit one report in PDF format.
 - Please list group members in your report clearly.
 - Only typed reports are accepted.
-- Make sure to include screenshots, codes, explainations, and observations in your report.
+- Make sure to include screenshots, explainations, and observations in your report.
 
 ## Grading
 
