@@ -27,6 +27,7 @@ In addition, please answer the following questions:
 - Each group only needs to submit one report in PDF format.
 - Please list group members in your report explicitly and each member's contribution.
 - Only typed reports are accepted.
+- Please ensure that you answer both the questions provided on this page (above) and those outlined in the lab instruction PDF.
 
 ## Grading
 
