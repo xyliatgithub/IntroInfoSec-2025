@@ -3,7 +3,7 @@
 In this lab, each student team will complete several tasks in _Packet Sniffing and Spoofing_ and _TCP/IP Attack_ lab modules using SEED Lab Ubuntu 16.04 VM. 
 
 ## Recommended background
-Basic knowledge of computer networking is remcommended. To get the most out of this lab, you might wish to work with someone who has experience in computer networking (ex. TCP/IP, socket programming) and/or spend some time learning about it.  
+Basic knowledge of computer networking is recommended. To get the most out of this lab, you might wish to work with someone who has experience in computer networking (e.g., TCP/IP, socket programming) and/or spend some time learning about it.  
 
 ## Environment Setup
 
