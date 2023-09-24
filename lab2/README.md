@@ -16,7 +16,9 @@ https://seedsecuritylabs.org/Labs_16.04/PDF/Sniffing_Spoofing.pdf
 
 You only need to complete **Lab Task Set 1**, which includes four tasks: (1) Sniffing Packets, (2) Spoofing ICMP Packets, (3) Traceroute, and (4) Sniffing and then Spoofing.
 
-**Sample code can be found here** (from the SEED Lab's creator): https://github.com/kevin-w-du/BookCode/tree/master/Sniffing_Spoofing/Scapy
+**Sample code can be found here** (from the SEED Lab's creator): https://github.com/kevin-w-du/BookCode/tree/master/Sniffing_Spoofing
+
+Note: When running the Task 1.3 code, please use your home network, as the school's network has security measures that may prevent the code from running successfully.
 
 **Additional Question:** In 2.3 Task 1.3: Traceroute, we increment the TTL value to get the number of routers flowing through. Please explain why we can make this. (Hint: Getting to know what TTL is and the process of routing.)
 
