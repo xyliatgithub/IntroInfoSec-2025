@@ -18,7 +18,7 @@ You only need to complete **Lab Task Set 1**, which includes four tasks: (1) Sni
 
 **Sample code can be found here** (from the SEED Lab's creator): https://github.com/kevin-w-du/BookCode/tree/master/Sniffing_Spoofing
 
-Note: When running the code for Task 1.3, please use your home network, as the school's network has security measures that may prevent the code from running successfully.
+**Note:** When running the code for Task 1.3, please use your home network, as the school's network has security measures that may prevent the code from running successfully.
 
 **Additional Question:** In 2.3 Task 1.3: Traceroute, we increment the TTL value to get the number of routers flowing through. Please explain why we can make this. (Hint: Getting to know what TTL is and the process of routing.)
 
