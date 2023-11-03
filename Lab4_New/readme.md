@@ -20,9 +20,7 @@ You will be able to work on the notebook file directly.
 
 (1) Q. Cheng, A. Xu, X. Li, and L. Ding, “Adversarial Email Generation against Spam Detection Models through Feature Perturbation,” The 2022 IEEE International Conference on Assured Autonomy (ICAA’22), Virtual Event, March 22-23, 2022.
 
-(2) J. He, Q. Cheng, and X. Li, “Understanding the Impact of Bad Words on Email Management through Adversarial Machine Learning,” SIG-KM International Research Symposium 2021, Virtual Event, The University of North Texas, September 29, 2021.
-
-(3) C. Wang, D. Zhang, S. Huang, X. Li, and L. Ding, “Crafting Adversarial Email Content against Machine Learning Based Spam Email Detection,” In Proceedings of the 2021 International Symposium on Advanced Security on Software and Systems (ASSS ’21) with AsiaCCS 2021, Virtual Event, Hong Kong, June 7, 2021.
+(2) C. Wang, D. Zhang, S. Huang, X. Li, and L. Ding, “Crafting Adversarial Email Content against Machine Learning Based Spam Email Detection,” In Proceedings of the 2021 International Symposium on Advanced Security on Software and Systems (ASSS ’21) with AsiaCCS 2021, Virtual Event, Hong Kong, June 7, 2021.
 
 You can download these paper at https://isi.jhu.edu/people/xyli/
 
