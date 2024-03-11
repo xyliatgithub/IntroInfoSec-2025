@@ -22,7 +22,7 @@ You will be able to work on the notebook file directly.
 
 (2) C. Wang, D. Zhang, S. Huang, X. Li, and L. Ding, “Crafting Adversarial Email Content against Machine Learning Based Spam Email Detection,” In Proceedings of the 2021 International Symposium on Advanced Security on Software and Systems (ASSS ’21) with AsiaCCS 2021, Virtual Event, Hong Kong, June 7, 2021.
 
-You can download these paper at https://isi.jhu.edu/people/xyli/
+You can download these papers at https://isi.jhu.edu/people/xyli/
 
 ## Submission Details
 
