@@ -6,7 +6,7 @@ In this lab assignment, you will need to complete the XSS lab module in the SEED
 ## Environment Setup
 
 Go to [Lab Environment Setup page](https://seedsecuritylabs.org/labsetup.html) to install the pre-built VM image (Ubuntu 20.04 VM 64 bits). You cannot work on it directly on your personal machine.  
-- Install VirtualBox first, if you do not have it already. (Note: VirtualBox is available for most consumer computers, but there are some exceptions for certain hardware architectures, such as Apple products with Apple Silicon. If you have trouble with this step, we encourage you to find a solution by yourself, get a free copy of VMware Fusion as an MSSI student (contact Chris, please), or use a computer in our lab.)
+- Install VirtualBox first, if you do not have it already. (Note: VirtualBox is available for most consumer computers, but there may be some exceptions for certain hardware architectures, such as Apple products with Apple Silicon. If you have trouble with this step, we encourage you to find a solution by yourself. You may get a free copy of VMware Fusion or use a computer in our lab.)
 - VM setup instructions (read very carefully): https://github.com/seed-labs/seed-labs/blob/master/manuals/vm/seedvm-manual.md
 
 ## Cross-Site Scripting (XSS) Attack Lab (50 points)
