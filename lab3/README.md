@@ -4,10 +4,23 @@ In this lab assignment, you will need to complete the RSA Public-Key Encryption 
 
 ## Environment Setup
 
-Go to [Lab Environment Setup page](https://seedsecuritylabs.org/labsetup.html) to install the pre-built VM image (Ubuntu 20.04 VM 64 bits). You cannot work on it directly on your personal machine.
+### Intel/AMD Machines x86-64
 
-- Install VirtualBox first, if you do not have it already. (Note: VirtualBox is available for most consumer computers, but there are some exceptions for certain hardware architectures, such as Apple products with Apple Silicon. If you have trouble with this step, we encourage you to find a solution by yourself, get a free copy of VMware Fusion as an MSSI student (contact Chris, please), or use a computer in our lab.)
-- VM setup instructions (read very carefully): https://github.com/seed-labs/seed-labs/blob/master/manuals/vm/seedvm-manual.md
+1. Install VirtualBox first, https://www.virtualbox.org/ if you do not have it already. (Note: VirtualBox is available for most consumer computers, If you have trouble with this step, we encourage you to find a solution by yourself)
+2. VM setup instructions (read very carefully): https://github.com/seed-labs/seed-labs/blob/master/manuals/vm/seedvm-manual.md
+3. Go to [Lab Environment Setup page](https://seedsecuritylabs.org/labsetup.html) to install the pre-built VM image (for Ubuntu 20.04 VM 64 bits). You cannot work on it directly on your personal machine.
+4. After building the VM, you can start the VM and log in with the username and password provided in the lab setup page.
+5. For TCP/IP Attack Lab, download the lab specific zip file (Labsetup.zip) from the [lab page](https://seedsecuritylabs.org/Labs_20.04/Crypto/Crypto_RSA/). You can download it directly on the VM or download it on your host machine and transfer it to the VM using the shared folder feature of VMware Fusion.
+6. Unzip the setup file and start your lab.
+
+### Apple Silicon Machines ARM64
+
+1. Install VMware Fusion first, https://blogs.vmware.com/teamfusion/2024/05/fusion-pro-now-available-free-for-personal-use.html if you do not have it already. (Note: VMware Fusion is available for Apple Silicon M chiip Macs, If you have trouble with this step, we encourage you to find a solution by yourself)
+2. VM setup instructions (read very carefully): https://github.com/seed-labs/seed-labs/blob/master/lab-setup/apple-arm/seedvm-fusion.md
+3. Go to [Lab Environment Setup page](https://seedsecuritylabs.org/labsetup.html) to install the pre-built VM image (for Ubuntu 20.04 VM 64 bits). You cannot work on it directly on your personal machine.
+4. After building the VM, you can start the VM and log in with the username and password provided in the lab setup page.
+5. For TCP/IP Attack Lab, download the lab specific zip file (Labsetup-arm.zip) from the [lab page](https://seedsecuritylabs.org/Labs_20.04/Crypto/Crypto_RSA/). You can download it directly on the VM or download it on your host machine and transfer it to the VM using the shared folder feature of VMware Fusion.
+6. Unzip the setup file and start your lab.
 
 ## RSA Public-Key Encryption and Signature Lab (50 points)
 
