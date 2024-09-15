@@ -12,9 +12,7 @@ For this lab, you will need to use google colab, and you need a google account t
 
 ### Use of Google Colab
 First, open the link below:
-https://colab.research.google.com/notebooks/
-Click upload and then choose the notebook file you downloaded from the Canvas.
-Thenyou can work on the notebook file directly. 
+https://colab.research.google.com/notebooks/. Click upload and then choose the notebook file you downloaded from the Canvas. Then you can work on the notebook file directly. 
 
 ## Publication References 
 
