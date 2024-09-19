@@ -1,10 +1,10 @@
 # Lab Assignment 2
 
-In this lab, each student team will complete several tasks in _Packet Sniffing and Spoofing_ and _TCP/IP Attack_ lab modules using SEED Lab Ubuntu 20.04 VM for Intel users and Ubuntu 22.04 for Apple Silicon users.
+In this lab, each student team will complete several tasks in the _Packet Sniffing and Spoofing_ and _TCP/IP Attack_ lab modules.
 
 ## Recommended background
 
-Basic knowledge of computer networking is recommended. To get the most out of this lab, you might wish to work with someone who has experience in computer networking (e.g., TCP/IP, socket programming) and/or spend some time learning about it. Additionally, familiarity with Docker networking configurations is important, as the lab may involve setting up and troubleshooting network communication between Docker containers.
+Basic knowledge of computer networking is recommended. To get the most out of this lab, you needto have experience in computer networking (e.g., TCP/IP, socket programming) and/or spend some time learning about it. Additionally, familiarity with Docker networking configurations is important, as the lab may involve setting up and troubleshooting network communication between Docker containers.
 
 ## Environment Setup
 
