@@ -1,6 +1,6 @@
 # Lab Assignment 2
 
-In this lab, each student team will complete several tasks in _Packet Sniffing and Spoofing_ and _TCP/IP Attack_ lab modules using SEED Lab Ubuntu 20.04 VM.
+In this lab, each student team will complete several tasks in _Packet Sniffing and Spoofing_ and _TCP/IP Attack_ lab modules using SEED Lab Ubuntu 20.04 VM for Intel users and Ubuntu 22.04 for Apple Silicon users.
 
 ## Recommended background
 
@@ -22,7 +22,7 @@ Basic knowledge of computer networking is recommended. To get the most out of th
 
 1. Install VMware Fusion first, https://blogs.vmware.com/teamfusion/2024/05/fusion-pro-now-available-free-for-personal-use.html if you do not have it already. (Note: VMware Fusion is available for Apple Silicon M chiip Macs, If you have trouble with this step, we encourage you to find a solution by yourself)
 2. VM setup instructions (read very carefully): https://github.com/seed-labs/seed-labs/blob/master/lab-setup/apple-arm/seedvm-fusion.md
-3. Go to [Lab Environment Setup page](https://seedsecuritylabs.org/labsetup.html) to install the pre-built VM image (for Ubuntu 20.04 VM 64 bits). You cannot work on it directly on your personal machine.
+3. Go to [Lab Environment Setup page](https://seedsecuritylabs.org/labsetup.html) to install the pre-built VM image (for Ubuntu 22.04 VM 64 bits). You cannot work on it directly on your personal machine.
 4. After building the VM, you can start the VM and log in with the username and password provided in the lab setup page.
 5. For Packet Sniffing and Spoofing Lab, download the lab specific zip file (Labsetup-arm.zip) from the [lab page](https://seedsecuritylabs.org/Labs_20.04/Networking/Sniffing_Spoofing/).
 6. For TCP/IP Attack Lab, download the lab specific zip file (Labsetup-arm.zip) from the [lab page](https://seedsecuritylabs.org/Labs_20.04/Networking/TCP_Attacks/). You can download it directly on the VM or download it on your host machine and transfer it to the VM using the shared folder feature of VMware Fusion.
