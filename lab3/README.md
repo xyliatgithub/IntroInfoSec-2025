@@ -10,7 +10,7 @@ In this lab assignment, you will need to complete the RSA Public-Key Encryption 
 2. VM setup instructions (read very carefully): https://github.com/seed-labs/seed-labs/blob/master/manuals/vm/seedvm-manual.md
 3. Go to [Lab Environment Setup page](https://seedsecuritylabs.org/labsetup.html) to install the pre-built VM image (for Ubuntu 20.04 VM 64 bits). You cannot work on it directly on your personal machine.
 4. After building the VM, you can start the VM and log in with the username and password provided in the lab setup page.
-5. For TCP/IP Attack Lab, download the lab specific zip file (Labsetup.zip) from the [lab page](https://seedsecuritylabs.org/Labs_20.04/Crypto/Crypto_RSA/). You can download it directly on the VM or download it on your host machine and transfer it to the VM using the shared folder feature of VMware Fusion.
+5. For RSA Lab, download the lab specific zip file (Labsetup.zip) from the [lab page](https://seedsecuritylabs.org/Labs_20.04/Crypto/Crypto_RSA/). You can download it directly on the VM or download it on your host machine and transfer it to the VM using the shared folder feature of VMware Fusion.
 6. Unzip the setup file and start your lab.
 
 ### Apple Silicon Machines ARM64
@@ -19,7 +19,7 @@ In this lab assignment, you will need to complete the RSA Public-Key Encryption 
 2. VM setup instructions (read very carefully): https://github.com/seed-labs/seed-labs/blob/master/lab-setup/apple-arm/seedvm-fusion.md
 3. Go to [Lab Environment Setup page](https://seedsecuritylabs.org/labsetup.html) to install the pre-built VM image (for Ubuntu 22.04 VM 64 bits). You cannot work on it directly on your personal machine.
 4. After building the VM, you can start the VM and log in with the username and password provided in the lab setup page.
-5. For TCP/IP Attack Lab, download the lab specific zip file (Labsetup-arm.zip) from the [lab page](https://seedsecuritylabs.org/Labs_20.04/Crypto/Crypto_RSA/). You can download it directly on the VM or download it on your host machine and transfer it to the VM using the shared folder feature of VMware Fusion.
+5. For RSA Lab, download the lab specific zip file (Labsetup-arm.zip) from the [lab page](https://seedsecuritylabs.org/Labs_20.04/Crypto/Crypto_RSA/). You can download it directly on the VM or download it on your host machine and transfer it to the VM using the shared folder feature of VMware Fusion.
 6. Unzip the setup file and start your lab.
 
 ## RSA Public-Key Encryption and Signature Lab (50 points)
@@ -27,7 +27,7 @@ In this lab assignment, you will need to complete the RSA Public-Key Encryption 
 Please thoroughly go through the [lab description](https://seedsecuritylabs.org/Labs_20.04/Files/Crypto_RSA/Crypto_RSA.pdf) and complete all the tasks listed on it. We recommend you read the entire document before you start. You will need to write a detailed report with adequate screenshots and explanations, including your code and demonstration that your code can work.
 
 - Tasks 1 - 5 are coding tasks. You need to modify the example code given (section 2.2 in lab manual) to finish these tasks.
-- For tasks 1 - 5, create a .c file for each of them. Then, compile the .c file you created using "gcc file_name.c -lcrypto" in the terminal. After compiling, a file is in the same directory called "a.out" if you do not specify the file name. Run the code using "./a.out".
+- For tasks 1-5, create a separate `.c` file for each task. Compile each `.c` file you've created using the command `gcc file_name.c -lcrypto` in the terminal (replace `file_name.c` with your actual file name). After compilation, if you haven't specified an output file name, an executable named `a.out` will be created in the same directory. Run the compiled program by entering `./a.out` in the terminal.
 - The steps for completing these task is basically the same. Initialize BIGNUM variables you need, do the calculation using BN operation functions (e.g. a\*b can be done using
   "BN_mul(res, a, b, ctx)").
 - Pay attention to the lab manual, some tasks require to write your observations.
