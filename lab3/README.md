@@ -34,11 +34,10 @@ Please thoroughly go through the [lab description](https://seedsecuritylabs.org/
 
 ## Submission Details
 
-- Due date of this assignment is announced on Canvas.
-- Each group only needs to submit one report in PDF format.
-- Please list group members in your report explicitly.
-- Only typed reports are accepted.
-- Make sure to include screenshots, codes, explainations, and observations in your report.
+- Submit one PDF report per group by the due date announced on Canvas.
+- Include a list of all group members and their specific contributions.
+- Only typed reports will be accepted.
+- Your report should contain screenshots, code snippets, explanations, and observations for each task.
 
 ## Grading
 
