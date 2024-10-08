@@ -1,6 +1,6 @@
 # Lab Assignment 3
 
-In this lab assignment, you will need to complete the RSA Public-Key Encryption and Signature Lab module of the SEED Lab Ubuntu 20.04 VM for Intel users and Ubuntu 22.04 for Apple Silicon users. The learning objective of this lab is for students to gain the first-hand experience on the RSA algorithm and the X.509 digital certificate. Coding experience is recommended, so you might want to work with someone with programming backgrounds.
+This lab assignment will complete the RSA Public-Key Encryption and Signature Lab module of the SEED Lab Ubuntu 20.04 VM for Intel users and Ubuntu 22.04 for Apple Silicon users. The learning objective of this lab is for students to gain the first-hand experience on the RSA algorithm and the X.509 digital certificate. Coding experience is recommended, so you might want to work with someone with programming backgrounds.
 
 ## Environment Setup
 
@@ -28,8 +28,7 @@ Please thoroughly go through the [lab description](https://seedsecuritylabs.org/
 
 - Tasks 1 - 5 are coding tasks. You need to modify the example code given (section 2.2 in lab manual) to finish these tasks.
 - For tasks 1-5, create a separate `.c` file for each task. Compile each `.c` file you've created using the command `gcc file_name.c -lcrypto` in the terminal (replace `file_name.c` with your actual file name). After compilation, if you haven't specified an output file name, an executable named `a.out` will be created in the same directory. Run the compiled program by entering `./a.out` in the terminal.
-- The steps for completing these task is basically the same. Initialize BIGNUM variables you need, do the calculation using BN operation functions (e.g. a\*b can be done using
-  "BN_mul(res, a, b, ctx)").
+- The steps for completing these task is basically the same. Initialize BIGNUM variables you need, do the calculation using BN operation functions (e.g., a\*b can be done using "BN_mul(res, a, b, ctx)").
 - Pay attention to the lab manual, some tasks require to write your observations.
 
 ## Submission Details
