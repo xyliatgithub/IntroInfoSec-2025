@@ -2,7 +2,7 @@
 The learning objective of this lab is for students to gain the first-hand experience on the machine learning based spam filters and related adversarial attacks. Coding experience is recommended, so you might want to work with someone with programming backgrounds. 
 
 ## Lab Manual
-The lab manual as a notebook file is available at Canvas. You will find textboxes and code blocks to work on for a set of questions and task. You don't need to write a separate report for this lab. Please include all your answers and code in the lab manual for submission. Please explain clearly your ideas and steps as instructed. Remember to save regularly when you are working on the notebook.
+The lab manual is a notebook (ipynb) file. You will find textboxes and code blocks to work on for a set of questions and task. You don't need to write a separate report for this lab. Please include all your answers and code in the lab manual for submission. Please explain clearly your ideas and steps as instructed. Remember to save regularly when you are working on the notebook.
 
 The dataset needed for this lab is in this Git folder called messages.csv. 
 
