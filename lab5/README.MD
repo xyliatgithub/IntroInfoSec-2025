@@ -2,17 +2,20 @@
 
 This lab assignment studies data privacy issues using a tool called ARX on a SEED VM. In this lab, you will learn data anonymization by applying the k-anonymity model.
 
-## Lab Manual and Datasets
-
-The lab manual and several datasets are available on Canvas. You will find a set of questions and tasks in the lab manual.
-
 ### Acknowledgement
 
 This lab is adopted with some minor revisions from the material by Dr. Mengjun Xie at the University of Tennessee at Chattanooga and Dr. Na Li at Prairie View A&M University.
 
+## Lab Manual and Datasets
+
+The lab manual and several datasets are available on Canvas. You will find a set of questions and tasks in the lab manual.
+
+
 ## Environment Setup
 
-### Intel/AMD Machines x86-64
+Note that you can directly work on the ARX tool on your computer. This is especially recommended for those Apple laptops with ARM chips.
+
+### Intel/AMD Machines x86-64 (Using VM)
 
 1. Install VirtualBox first, https://www.virtualbox.org/ if you do not have it already. (Note: VirtualBox is available for most consumer computers, If you have trouble with this step, we encourage you to find a solution by yourself)
 2. VM setup instructions (read very carefully): https://github.com/seed-labs/seed-labs/blob/master/manuals/vm/seedvm-manual.md
@@ -28,7 +31,7 @@ This lab is adopted with some minor revisions from the material by Dr. Mengjun X
 6. Use the command `./ARX-3.9.1-linux-x64-installer.run` to execute your RUN file for downloading the ARX tools on your SEED VM.
 7. Downbload the zip file containing the datasets to be used and save them on the VM.
 
-### Apple Machines
+### Apple Machines (ARM chips)
 
 #### Install ARX locally:
 
