@@ -1,4 +1,4 @@
-# Lab Assignment 1
+# Lab 1 - Web Security Attack
 
 In this lab, you will complete the XSS web attack lab tasks from the SEED Labs. You will learn to code and attack a vulnerable social media application installed in a VM. Coding experience is recommended, so you might want to work with someone with relevant backgrounds.
 
